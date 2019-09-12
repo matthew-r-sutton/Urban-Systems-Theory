@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "wilmington",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::102003" } },
+"features": [
+{ "type": "Feature", "properties": { "city": "Wilmington", "city_ascii": "Wilmington", "state_id": "DE", "state_name": "Delaware", "county_fips": 10003, "county_name": "New Castle", "lat": 39.7349, "lng": -75.5286, "population": 71442, "population_proper": 71442, "log_pop_proper": 11.17664121, "density": 2529, "source": "polygon", "incorporated": "TRUE", "timezone": "America\/New_York", "zips": "19809 19802 19801 19806 19805 19850 19880 19884 19885 19886 19890 19891 19892 19893 19894 19895 19896 19897 19898 19899", "id": 1840005579, "cat": "intermediate", "class": 2, "rank": 494, "classSmall": 0, "classInter": 1, "classPrim": 0, "popSmall": null, "rankSmall": null, "popInter": 11.17664121, "rankInter": 494, "popPrim": null, "rankPrim": null, "field_30": null, "field_31": null, "field_32": null }, "geometry": { "type": "Point", "coordinates": [ 1725326.719371667597443, 437036.932658660050947 ] } }
+]
+}
